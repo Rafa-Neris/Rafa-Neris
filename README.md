@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Rafa-Neris/Rafa-Neris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu sou Rafael Mello, atualmente estou estudando programação Full Stack para uma transição de carreira.
+Um pouco de mim:
+- Formado em:
+Bacharel em Administração,
+Tecnologia em Logística,
+MBA Gestão de Projetos e Processos, 
+MBA Gestão de Pessoas e Resultados,
+MBA Logística e Supply Chain,
+Lean Seis Sigma – White Belt – Yellow Belt – Green Belt e Expert – Black Belt 
+Estudando Desenvolvedor FullStack – HTML, CSS, Javascript, Back-End, Front-End, Git&Github, Analise de 
+dados IA na programação de automação 
